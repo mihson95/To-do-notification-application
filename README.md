@@ -21,15 +21,20 @@ This project was developed for the module CS5721 - Software Design, taught by Pr
 - UML for class, activity, use case, system architecture, sequence, schema, and package diagrams
 - SOLID Principles
 - Design Patterns - Decorator, Observer, Command
+- Demonstrate Software qualities of modularity, extensibility, and reusability
 
 
 ## Tech Stack
 - Java 11
 - Spring Boot
+- Spring Security (JWT Authentication)
+- JPA (Java Persistence API)
 - Spring Cloud API Gateway
 - Spring Cloud Netflix Eureka
 - MySQL Database
 - JUnit
+- Postman
+- Maven
 - Azure DevOps CI Pipeline
 - Sonar for code smells
   
