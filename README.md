@@ -4,6 +4,12 @@ A to-do list notification system helps users stay organized and on top of their 
 
 This project was developed for the module CS5721 - Software Design, taught by Prof. J.J. Collins at the University of Limerick.
 
+## Overview
+
+The project employed a microservices architecture having components such as API Gateway and Eureka Server and 2 Microservices. Users can create labels for lists such as Grocery, Today, Travel, etc. and add items to them using Factory Pattern. 
+<br>
+I was responsible for the Priority Module using which Users can set Priority to an item such as High, Low, Medium, Special dynamically using Decorator Pattern, and Creating API Gateway using Spring Cloud Gateway and Eureka Server using Spring Cloud Netflix Library. Users get notified on email on due date and on todo completion using Observer Pattern. Application had User Authentication implemented using JWT token. Demonstrated Multiple Design Patterns such as Observer, Decorator, Command. Developed an Azure DevOps CI pipeline. Added Unit Testing using JUnit. Developed this team project for the Module CS5721 - Software Design. Learnt important skills such as conceptualising, designing, developing, testing, and deploying a software application written in Java 11 and Spring Boot. Learnt effective teamwork and collaboration from this project.
+
 ## Plan
 - week 3 - Getting Started
 - week 4 - Requirements
