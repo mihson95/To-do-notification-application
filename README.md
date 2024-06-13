@@ -43,12 +43,6 @@ I was responsible for the Priority Module using which Users can set Priority to 
 - Maven
 - Azure DevOps CI Pipeline
 - Sonar for code smells
-  
-## Team
-- Mihir Sontake
-- Rishikesh Joshi
-- Tanmay Srivastava
-- Sai Abitha
 
 
 
